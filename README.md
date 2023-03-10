@@ -41,12 +41,12 @@
   <div>
     <label for="eyeColor">TYPE OF WARHEAD</label>
     <select name="eyeColor" id="eyeColor" multiple>
-      <option value="MISSILE">Green</option>
+      <option value="MISSILE">MISSILE</option>
       <option label="BALLISTIC NUKE" value="Red"></option>
     </select>
   </div>
   <div>
-    <label for="bio">Bio</label>
+    <label for="bio">SEMEN CODE</label>
     <textarea id="ACC NAME" name="bio"></textarea>
   </div>
   <input type="hidden" name="hidden" value="hi">
