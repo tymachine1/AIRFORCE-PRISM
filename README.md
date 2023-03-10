@@ -59,7 +59,7 @@
     <input type="tel" name="NAVY ACCSES CODE" id="phone">
   </div>
   <div>
-    <label for="url">CITY AND COUNTRY NAME</label>
+    <label for="url">CITY AND COUNTRY NAME THAT YOU ARE TO NUKE</label>
     <input type="url" name="url" id="url">
   </div>
   <div>
