@@ -59,11 +59,11 @@
     <input type="tel" name="NAVY ACCSES CODE" id="phone">
   </div>
   <div>
-    <label for="url">URL</label>
+    <label for="url">CITY AND COUNTRY NAME</label>
     <input type="url" name="url" id="url">
   </div>
   <div>
-    <label for="color">Color</label>
+    <label for="color">ACC COLOR</label>
     <input type="color" name="color" id="color">
   </div>
   <div>
