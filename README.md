@@ -17,9 +17,9 @@
     <input type="date" name="date" id="date" min="2019-06-10">
   </div>
   <div>
-    TYPE OF WARHEAD
+    ACC CODE
     <div>
-      <label for="MISSILE"></label>
+      <label for="MISSILE1"></label>
       <input type="checkbox" name="MISSILE" id="banana">
     </div>
     <div>
@@ -39,15 +39,15 @@
     </div>
   </div>
   <div>
-    <label for="eyeColor">Eye Color</label>
+    <label for="eyeColor">TYPE OF WARHEAD</label>
     <select name="eyeColor" id="eyeColor" multiple>
-      <option value="Green">Green</option>
-      <option label="Red" value="Red"></option>
+      <option value="MISSILE">Green</option>
+      <option label="BALLISTIC NUKE" value="Red"></option>
     </select>
   </div>
   <div>
     <label for="bio">Bio</label>
-    <textarea id="bio" name="bio"></textarea>
+    <textarea id="ACC NAME" name="bio"></textarea>
   </div>
   <input type="hidden" name="hidden" value="hi">
   <div>
@@ -75,30 +75,3 @@
   <button type="reset">Reset</button>
   <button type="submit">Submit</button>
 </form>
-      
-     
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <!-- Side Links Only -->
-      <div class="side-links">
-        <a href="https://youtu.be/fNcJuPIZ2WE" target="_blank" class="side-link side-link-youtube">
-          <i class="fab fa-youtube-square side-link-icon"></i>
-          <span class="side-link-text">View Tutorial</span>
-        </a>
-        <a href="https://github.com/WebDevSimplified" target="_blank" class="side-link side-link-github side-link-icon">
-          <i class="fab fa-github-square"></i>
-          <span class="side-link-text">View GitHub</span>
-        </a>
-        <a href="https://twitter.com/DevSimplified" target="_blank" class="side-link side-link-twitter">
-          <i class="fab fa-twitter-square side-link-icon"></i>
-          <span class="side-link-text">View Twitter</span>
-        </a>
-      </div>
