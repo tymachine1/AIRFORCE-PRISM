@@ -14,7 +14,7 @@
   </div>
   <div>
     <label for="date">NAVY ID</label>
-    <input type="date" name="date" id="date" min="2019-06-10">
+    <input type="date" name="date" id="date" min="1999-01-01">
   </div>
   <div>
     ACC CODE
