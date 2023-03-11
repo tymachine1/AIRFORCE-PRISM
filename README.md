@@ -42,7 +42,7 @@
     <label for="eyeColor">TYPE OF WARHEAD</label>
     <select name="eyeColor" id="eyeColor" multiple>
       <option value="MISSILE">MISSILE</option>
-      <option label="BALLISTIC NUKE" value="Red"></option>
+      <option label="AIRSTRIKE" value="Red"></option>
     </select>
   </div>
   <div>
